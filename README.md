@@ -1,17 +1,13 @@
-# jpalumickas does dotfiles
-
 ## dotfiles
 
-Your dotfiles are how you personalize your system. These are mine.
-
-These are taken from [@holman][] and edited for my personal use.
+kudos to [@holman][].
 
 ## install
 
 Run this:
 
 ```sh
-git clone https://github.com/jpalumickas/dotfiles.git ~/.dotfiles
+git clone dotfiles.git ~/.dotfiles
 cd ~/.dotfiles
 script/bootstrap
 ```
